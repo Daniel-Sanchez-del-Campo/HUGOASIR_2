@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+theme = "PaperMod"
+languageCode = 'en-us'
+title = 'Plantilla del Real Madrid'
+
+
