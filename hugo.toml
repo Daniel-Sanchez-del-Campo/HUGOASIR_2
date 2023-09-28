@@ -1,6 +1,4 @@
 baseURL = 'https://example.org/'
-theme = "PaperMod"
 languageCode = 'en-us'
+theme = "binario"
 title = 'Plantilla del Real Madrid'
-
-
